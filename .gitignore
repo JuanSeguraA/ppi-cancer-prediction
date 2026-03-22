@@ -1,0 +1,6 @@
+# .gitignore
+data/
+venv/
+__pycache__/
+*.pyc
+ppi-env/
