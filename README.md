@@ -1,6 +1,7 @@
 # PPI Cancer Prediction
 
-![AML gene neighborhood in the PPI network](figures/aml_network.png)
+<img src="figures/aml_network.png" alt="AML gene neighborhood in the PPI network" width="500">
+
 
 Predicting AML (Acute Myeloid Leukemia)-associated genes from protein-protein
 interaction (PPI) network structure. The idea: genes that interact heavily
