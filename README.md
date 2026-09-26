@@ -8,7 +8,7 @@ interest for networks could be combined with my rooted love for machine
 learning and biology to try and approach existing problems with new solutions
 and perspectives.
 
-The core idea is simple: genes that interact heavily with known cancer genes
+The core idea is: genes that interact heavily with known cancer genes
 are themselves more likely to be relevant to that cancer. So instead of only
 looking at a gene on its own, this project looks at where a gene sits inside
 the human protein-protein interaction (PPI) network, and how close it is to
